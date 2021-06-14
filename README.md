@@ -1,4 +1,5 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Orlin Díaz Diaz</h1>
+<h3 align="center">Aassionate Fullstack javascript developer from Dominicana Republic</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
