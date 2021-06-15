@@ -30,9 +30,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/orlin diaz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="orlin diaz" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elorlin&show_icons=true&locale=en&layout=compact" alt="elorlin" /></p>
+<div display="inline-block">
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elorlin&show_icons=true&locale=en&layout=compact" alt="elorlin" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=elorlin&show_icons=true&locale=en" alt="elorlin" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elorlin&show_icons=true&locale=en" alt="elorlin" /></p>
+</div>
 
 
 
