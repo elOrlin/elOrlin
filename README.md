@@ -1,6 +1,44 @@
 <h1 align="center">Hi 👋, I'm Orlin Diaz</h1>
 <h3 align="center">I am a developer passionate, fullStack Javascript developer on both client and server from Dominican Republic</h3>
 
+(function drawText(text) {
+  context.font = "50px Arial Black";
+  context.textAlign = 'center';
+  context.fillText(text, x, y);
+}
+
+// full_text - input del usuario
+// curr_text - texto que actualmente se muestra
+function drawFrame() {
+  if (curr_text.length == full_text_arr.length) {
+    finish(); // animacion terminada
+  } else {
+    curr_text.push(full_text_arr[curr_text.length]);
+    drawText(curr_text.join(''));
+    gif.addFrame(context, {copy: true, delay: 100}); // agregamos frame
+  }
+}
+
+function animate() {
+  // opciones del encoder
+  gif = new GIF({
+    workers: 2,
+    quality: 10,
+    width: canvas.width,
+    height: canvas.height
+  });
+   
+  frame = setInterval(function(){drawFrame()}, 100);
+}
+
+function finish() {
+  clearInterval(frame);
+  gif.on('finished', function(blob) {
+    output_image.src = URL.createObjectURL(blob); // gif animado
+  });
+  gif.render();
+})
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elorlin&label=Profile%20views&color=0e75b6&style=flat" alt="elorlin" /> </p>
 
 - 🔭 I’m currently working on my own projects [patient-manager with react](https://github.com/elOrlin/Patient-Manager-With-React)
