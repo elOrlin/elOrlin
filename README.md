@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Orlin Diaz</h1>
 <h3 align="center">I am a developer passionate, fullStack Javascript developer on both client and server from Dominican Republic</h3>
 
-![programando](https://github.com/hebertdev1/hebertdev/blob/master/javascript.gif)
+![programando](https://github.com/hebertdev1/hebertdev1/blob/master/javascript.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elorlin&label=Profile%20views&color=0e75b6&style=flat" alt="elorlin" /> </p>
 
