@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Orlin Diaz</h1>
 <h3 align="center">I am a developer passionate, fullStack Javascript developer on both client and server from Dominican Republic</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elorlin&label=Profile%20views&color=0e75b6&style=flat" alt="elorlin" /> </p>
-
 - 🔭 I’m currently working on my own projects [patient-manager with react](https://github.com/elOrlin/Patient-Manager-With-React)
 
 - 🌱 I’m currently learning **Python, django, advanced node.js**
