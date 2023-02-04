@@ -25,6 +25,7 @@
 </p>
 
 <h3 align="left">Languages and Skills:</h3>
+
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![HTML5 Badge](https://img.shields.io/badge/-Html5-DB7A06?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=DB7A06)](#)
 [![CSS3 Badge](https://img.shields.io/badge/-Css3-315ADA?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=315ADA)](#)
