@@ -26,10 +26,10 @@
 
 <h3 align="left">Languages and Skills:</h3>
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![HTML5 Badge](https://img.shields.io/badge/-Html5-DB7A06?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=DB7A06)](#)
 [![CSS3 Badge](https://img.shields.io/badge/-Css3-315ADA?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=315ADA)](#)
 [![GIT Badge](https://img.shields.io/badge/-Git-6A16A4?style=for-the-badge&labelColor=black&logo=GIT&logoColor=6A16A4)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Redux Badge](https://img.shields.io/badge/-REDUX-BB76C4?style=for-the-badge&labelColor=black&logo=redux&logoColor=BB76C4)](#)
@@ -44,7 +44,7 @@
 
 [![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#)
 [![Tkinter Badge](https://img.shields.io/badge/-Tkinter-61DBFB?style=for-the-badge&labelColor=black&logo=tkinter&logoColor=61DBFB)](#)
- [![Django Badge](https://img.shields.io/badge/-Django-61DBFB?style=for-the-badge&labelColor=black&logo=django&logoColor=61DBFB)](#)  
+[![Django Badge](https://img.shields.io/badge/-Django-61DBFB?style=for-the-badge&labelColor=black&logo=django&logoColor=61DBFB)](#)  
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/orlin diaz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="orlin diaz" /></a></p>
