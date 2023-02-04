@@ -25,14 +25,25 @@
 </p>
 
 <h3 align="left">Languages and Skills:</h3>
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![HTML5 Badge](https://img.shields.io/badge/-Html5-DB7A06?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=DB7A06)](#)
+[![CSS3 Badge](https://img.shields.io/badge/-Css3-315ADA?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=315ADA)](#)
+[![GIT Badge](https://img.shields.io/badge/-Git-6A16A4?style=for-the-badge&labelColor=black&logo=GIT&logoColor=6A16A4)](#)
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Mongodb Badge](https://img.shields.io/badge/-mongodb-007acc?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=007acc)](#) [![Cypress Badge](https://img.shields.io/badge/-Mysql-61B1B8?style=for-the-badge&labelColor=black&logo=MYSQL&logoColor=61B1B8)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Webpack Badge](https://img.shields.io/badge/-Webpack-61dBFB?style=for-the-badge&labelColor=black&logo=WEBPACK&logoColor=A3B7CB)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Redux Badge](https://img.shields.io/badge/-REDUX-BB76C4?style=for-the-badge&labelColor=black&logo=redux&logoColor=BB76C4)](#)
+[![VUE Badge](https://img.shields.io/badge/-VUE-12AF67?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=12AF67)](#)
+[![Cypress Badge](https://img.shields.io/badge/-Cypress-8D9092?style=for-the-badge&labelColor=black&logo=CYPRESS&logoColor=8D9092)](#)
+[![Webpack Badge](https://img.shields.io/badge/-Webpack-61dBFB?style=for-the-badge&labelColor=black&logo=WEBPACK&logoColor=A3B7CB)](#)
+
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Express Badge](https://img.shields.io/badge/-Mysql-61B1B8?style=for-the-badge&labelColor=black&logo=mysql&logoColor=61B1B8)](#)
+[![Mysql Badge](https://img.shields.io/badge/-Express-61B1B8?style=for-the-badge&labelColor=black&logo=express&logoColor=61B1B8)](#)
+[![Mongodb Badge](https://img.shields.io/badge/-mongodb-007acc?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=007acc)](#)  
 
 [![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#)
 [![Tkinter Badge](https://img.shields.io/badge/-Tkinter-61DBFB?style=for-the-badge&labelColor=black&logo=tkinter&logoColor=61DBFB)](#)
- [![Django Badge](https://img.shields.io/badge/-Django-61DBFB?style=for-the-badge&labelColor=black&logo=django&logoColor=61DBFB)](#)
-
-[![VUE Badge](https://img.shields.io/badge/-VUE-12AF67?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=12AF67)](#) [![Cypress Badge](https://img.shields.io/badge/-Cypress-8D9092?style=for-the-badge&labelColor=black&logo=CYPRESS&logoColor=8D9092)](#) [![HTML5 Badge](https://img.shields.io/badge/-Html5-DB7A06?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=DB7A06)](#) [![Redux Badge](https://img.shields.io/badge/-REDUX-BB76C4?style=for-the-badge&labelColor=black&logo=redux&logoColor=BB76C4)](#) [![CSS3 Badge](https://img.shields.io/badge/-Css3-315ADA?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=315ADA)](#) [![GIT Badge](https://img.shields.io/badge/-Git-6A16A4?style=for-the-badge&labelColor=black&logo=GIT&logoColor=6A16A4)](#)
+ [![Django Badge](https://img.shields.io/badge/-Django-61DBFB?style=for-the-badge&labelColor=black&logo=django&logoColor=61DBFB)](#)  
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/orlin diaz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="orlin diaz" /></a></p>
