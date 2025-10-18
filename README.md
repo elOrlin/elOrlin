@@ -1,21 +1,23 @@
 ![programando](https://github.com/hebertdev1/hebertdev1/blob/master/javascript.gif)
 
 <h1 align="center">Hi 👋, I'm Orlin Diaz</h1>
-<h3 align="center">I am a developer passionate, fullStack Javascript developer on both client and server from Dominican Republic</h3>
+<h3 align="center">Backend Developer | Django & Python Enthusiast | New York</h3>
 
-- 🔭 I’m currently working on my own projects [patient-manager with react](https://github.com/elOrlin/Patient-Manager-With-React)
+- 🔭 I’m currently working on my own projects, including [Patient Manager](https://github.com/elOrlin/Patient-Manager-With-React)  
 
-- 🌱 I’m currently learning **Python, django, advanced node.js**
+- 🌱 I’m continuously learning **Python, Django, Django REST Framework, Pytest, Scrapy, and professional backend testing**  
 
-- 👨‍💻 All of my projects are available at [https://github.com/elOrlin](https://github.com/elOrlin)
+- 👨‍💻 All of my projects are available at [https://github.com/elOrlin](https://github.com/elOrlin)  
 
-- 💬 Ask me about **html5, css3, javascript, react, vue, webpack, node.js, mvc, mysql, mongodb**
+- 💬 Ask me about **Python, Django, DRF, PostgreSQL, Docker, CI/CD, JWT, uWSGI, Nginx, backend architecture, professional testing, Pytest, and Scrapy**  
 
-- 📫 How to reach me **orlindiaz@outlook.com**
+- 📫 How to reach me: **orlindiaz@outlook.com**  
 
-- 📄 Know about my experiences [I have 4 years developing client applications using javascript and its frameworks such as react and vue on the client side I have 2 years making web applications of my interest using the mern stack](I have 4 years developing client applications using javascript and its frameworks such as react and vue on the client side I have 2 years making web applications of my interest using the mern stack)
+- 📄 About my experience:  
+  I have **4 years developing client applications**, and **2 years building full-stack web applications** with a focus on backend using Django, professional testing, Docker, CI/CD pipelines, Pytest, and Scrapy.  
 
-- ⚡ Fun fact **I like to code from a very young age I feel as if I play video games**
+- ⚡ Fun fact: **I love coding from a young age—it feels like playing video games!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
